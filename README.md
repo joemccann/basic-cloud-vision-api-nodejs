@@ -17,6 +17,12 @@ Read more here:
 
 https://github.com/GoogleCloudPlatform/gcloud-node/blob/master/docs/authentication.md
 
+Set your Google Cloud Project ID:
+
+```sh
+export GCLOUD_PROJECT=your-app-project-id-change-this-value
+```
+
 ## Usage
 
 ```sh
