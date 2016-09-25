@@ -1,4 +1,4 @@
-# Basic Cloud Vision API Demo for Node.js
+# Basic Cloud Vision API Demo with Node.js
 
 ## DISCLAIMER
 
